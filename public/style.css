@@ -1,0 +1,17 @@
+body {
+    margin-left: 20px;
+}
+
+.chatBox {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.msgBox {
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
